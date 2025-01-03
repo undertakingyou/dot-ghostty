@@ -1,8 +1,5 @@
 # Themeing
 font-family = "VictorMono Nerd Font Mono"
-font-family-bold = "VictorMono Nerd Font Mono Bold"
-font-family-italic = "VictorMono Nerd Font Mono Italic"
-font-family-bold-italic = "VictorMono Nerd Font Mono Bold Italic"
 font-size = 12
 theme = Nightfly
 background-opacity = 0.95
