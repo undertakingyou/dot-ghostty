@@ -4,7 +4,7 @@ font-size = 12
 theme = Nightfly
 background-opacity = 0.95
 window-padding-x = 8
-window-padding-y = 8
+window-padding-y = 8,0
 window-padding-balance = true
 
 # Behavior and settings
