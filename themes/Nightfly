@@ -2,26 +2,47 @@
 #
 # Upstream: github.com/bluz71/vim-nightfly-colors
 
-background = "#011627" # Dark Slate
-foreground = "#acb4c2" # Light Gray
-selection-background = "#b2ceee" # Light Sky Blue
-selection-foreground = "#080808" # Near Black
-cursor-color = "#9ca1aa" # Another Light Gray
+# Dark Slate
+background = "#011627"
+# Light Gray
+foreground = "#acb4c2"
+# Light Sky Blue
+selection-background = "#b2ceee"
+# Near Black
+selection-foreground = "#080808"
+# Another Light Gray
+cursor-color = "#9ca1aa"
 
-palette = 0=#1d3b53 # Blue
-palette = 1=#fc514e # Red
-palette = 2=#a1cd5e # Green
-palette = 3=#e3d18a # Yellow
-palette = 4=#82aaff # Light Blue
-palette = 5=#c792ea # Purple
-palette = 6=#7fdbca # Light Teal
-palette = 7=#a1aab8 # Gray
+# Blue
+palette = 0=#1d3b53
+# Red
+palette = 1=#fc514e
+# Green
+palette = 2=#a1cd5e
+# Yellow
+palette = 3=#e3d18a
+# Light Blue
+palette = 4=#82aaff
+# Purple
+palette = 5=#c792ea
+# Light Teal
+palette = 6=#7fdbca
+# Gray
+palette = 7=#a1aab8
 
-palette = 8=#7c8f8f # Med Gray
-palette = 9=#ff5874 # Pink
-palette = 10=#21c7a8 # Teal
-palette = 11=#ecc48d # Peach
-palette = 12=#82aaff # Light Blue
-palette = 13=#ae81ff # Violet
-palette = 14=#7fdbca # Light Teal
-palette = 15=#d6deeb # Light Gray
+# Med Gray
+palette = 8=#7c8f8f
+# Pink
+palette = 9=#ff5874
+# Teal
+palette = 10=#21c7a8
+# Peach
+palette = 11=#ecc48d
+# Light Blue
+palette = 12=#82aaff
+# Violet
+palette = 13=#ae81ff
+# Light Teal
+palette = 14=#7fdbca
+# Light Gray
+palette = 15=#d6deeb
