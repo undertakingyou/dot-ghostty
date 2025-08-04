@@ -10,3 +10,4 @@ split-divider-color = "#1d3b53"
 
 # Behavior and settings
 quit-after-last-window-closed = true
+keybind = shift+enter=text:\n
