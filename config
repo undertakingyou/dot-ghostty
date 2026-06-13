@@ -1,7 +1,8 @@
 # Themeing
 font-family = "VictorMono Nerd Font Mono"
 font-size = 12
-theme = Nightfly
+# theme = Nightfly
+theme = Kanagawa Dragon
 background-opacity = 0.95
 window-padding-x = 8
 window-padding-y = 8,0
